@@ -1,0 +1,9 @@
+config.h
+include/iconv.h
+lib/config.h
+*.obj
+*.lib
+lib/localcharset.h
+libcharset/include/localcharset.h
+libcharset/include/libcharset.h
+*.exe
